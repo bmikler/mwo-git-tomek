@@ -14,4 +14,8 @@ public class SomeProgram {
 	public static void manageTheSatelite() {
 		// TODO implement
 	}
+		
+	public static void newClass() {
+		System.out.println("Hello World!");
+	}
 }
